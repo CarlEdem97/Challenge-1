@@ -44,7 +44,7 @@ h3{
 }
 .hero{
   background-image: url(../images/illustration-hero.svg);
-  background-size: cover;
+  background-size: contain;
   height:30%;
   background-repeat: no-repeat;
   border-top-left-radius: 20px;
